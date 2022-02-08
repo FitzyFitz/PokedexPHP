@@ -1,1 +1,5 @@
-echo "ola";
+<?php
+
+    echo "Hello!"
+
+?>
